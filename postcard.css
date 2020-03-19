@@ -1,0 +1,106 @@
+html {
+    box-sizing: border-box;
+}
+
+.neon {
+    background-color: #cf6000;
+    margin:0px;
+}
+
+#text {
+/*    font-family: 'Heebo', sans-serif;*/
+    font-family: 'Roboto', sans-serif;
+    font-weight:700; 
+    font-size: 40px;
+    text-align: left;
+    letter-spacing: 1px;
+    margin-left: 300px;
+    margin-bottom:70px;
+}
+
+hr.lineone {
+    border: 15px solid black;
+}
+hr.linetwo {
+    border: 15px solid black;
+    
+}
+hr.line {
+    border:20px solid #cf6000;
+    
+}
+
+#orangepart {
+    background-color: #fc8e11;
+    width:1050px; 
+    height:1026px;
+    margin-left:130px;
+    margin-top:-400px;
+    position:relative;
+    z-index: 1;
+}
+
+    #box {
+    height: 235px;
+    width: 390px;
+    outline: 25px solid white;
+    margin-left: 302px;
+    margin-top: -90px;
+    position:relative;
+    z-index: 2;
+
+}
+
+#orangelineone {
+    height:2000px;
+    width:4px;
+    margin-left:510px;
+    margin-top: -2000px;
+    background-color:#fc8e11;
+    position: relative;
+    z-index: 3;
+}
+
+#orangelinetwo {
+    height:2px;
+    width:2000px;
+    margin-top: -630px;
+    margin-left:200px;
+    background-color:#fc8e11;
+    position: relative;
+    z-index: 4;
+}
+#tmpp {
+    margin-top: 320px;
+    position:relative;
+    z-index: 5;
+}
+#themoca {
+    font-family: 'Roboto Slab', serif;
+    font-weight:500; 
+    font-size: 23px;
+    letter-spacing: 4px;
+    color: #5c7cc4;
+    margin-left: 42px;
+   
+}
+#photo {
+    font-family: 'Roboto Slab', serif;
+    font-weight:500; 
+    font-size: 23px;
+    letter-spacing: 4px;
+}
+#graphyportfolio {
+   font-family: 'Dosis', sans-serif;
+    font-size: 23px;
+    letter-spacing: 6.5px;
+    margin-left:1.5px;
+}
+hr.light {
+    border: .5px solid #ebc951;
+    margin-top: -147px;
+    margin-left: -10px;
+}
+
+
+

@@ -1,0 +1,70 @@
+html{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightgray;
+
+}
+
+.pink{
+    width:600px;
+    height:200px;
+    background-color:pink;
+}
+.mblue{
+    width:600px;
+    height:200px;
+    background-color:midnightblue;
+}
+.lsb{
+    width:65px;
+    height:800px;
+    background-color:lightsteelblue;
+}
+.mbluee{
+    width:65px;
+    height:800px;
+    background-color:midnightblue;
+}
+.dred{
+    width:100px;
+    height:800px;
+    background-color:darkred;
+}
+.mblueee{
+    width:100px;
+    height:800px;
+    background-color:midnightblue;
+}
+.block{
+    display:inline-block;
+    margin-left: -4px
+}
+
+.lsb:hover{
+    background-color:magenta;
+    animation: shake .25s; 
+    animation-iteration-count: infinite;
+}
+@keyframes shake {
+  0% { transform: translate(1px, 1px) rotate(0deg); }
+  10% { transform: translate(-1px, -2px) rotate(-1deg); }
+  20% { transform: translate(-3px, 0px) rotate(1deg); }
+  30% { transform: translate(3px, 2px) rotate(0deg); }
+  40% { transform: translate(1px, -1px) rotate(1deg); }
+  50% { transform: translate(-1px, 2px) rotate(-1deg); }
+  60% { transform: translate(-3px, 1px) rotate(0deg); }
+  70% { transform: translate(3px, 1px) rotate(-1deg); }
+  80% { transform: translate(-1px, -1px) rotate(1deg); }
+  90% { transform: translate(1px, 2px) rotate(0deg); }
+  100% { transform: translate(1px, -2px) rotate(-1deg); }
+}
+.pink:hover{
+    background-color:darkgoldenrod;
+    transition:.5s; 
+} 
+.dred:hover{
+    width:100px;
+    height:800px;
+} 

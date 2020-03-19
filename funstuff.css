@@ -1,0 +1,39 @@
+.menuTwo {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 100px;
+    margin-top: -20px;
+    margin-bottom: 60px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color:pink;
+    letter-spacing: 3px;
+    
+}
+.menu {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 100px;
+    margin-top: -20px;
+    margin-bottom: 40;
+    color:aqua;
+    letter-spacing: 3px;
+    
+}
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: block;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-decoration: none;
+}
+li a:link {
+    text-decoration: none;
+    color:aqua
+}
+li a:visited {
+    color:aqua
+}
+li a:hover {
+  background-color: aqua;
