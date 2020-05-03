@@ -1,0 +1,204 @@
+.menuTwo {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 200px;
+    margin-top: -20px;
+    margin-bottom: 60px;
+    margin-left: 79px;
+    color: pink;
+    letter-spacing: 3px;
+
+}
+
+.menu {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 150px;
+    margin-top: -20px;
+    margin-bottom: 40;
+    color: aqua;
+    letter-spacing: 3px;
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: block;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-decoration: none;
+}
+
+li a:link {
+    text-decoration: none;
+    color: aqua
+}
+
+li a:visited {
+    color: aqua
+}
+
+li a:hover {
+    background-color: aqua;
+}
+
+/*manifesto*/
+
+#manifesto {
+    font-size: 50px;
+    color: aquamarine;
+}
+#lineOne {
+    color: purple;
+}
+
+#lineTwo {
+    font-size: 40px;
+}
+
+#lineThree {
+        font-family: 'Gelasio', serif;
+    font-size: 30px;
+    background-color: aqua;
+}
+
+#lineFour {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 20px;
+}
+
+#lineFive {
+    margin-left: 100px;
+}
+
+#lineSix {
+    color: magenta;
+}
+
+#lineSeven {
+    color: MediumAquaMarine;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 12 px;
+}
+
+#lineEight {
+    margin-right: 300px;
+    color: aliceblue;
+    background-color: DarkBlue;
+}
+
+#lineNine {
+    color: black;
+    opacity: .5;
+}
+
+#lineTen {
+    border: .25px solid;
+    box-shadow: 5px 10px red;
+}
+
+#lineEleven {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 10px;
+}
+
+#lineTwelve {
+    font-family: 'Arvo', serif;
+    font-size: 60px;
+    font-weight: bolder;
+    text-shadow: 5px 3px magenta;
+}
+
+#lineThirteen {
+    font-family: 'Arvo', serif;
+    font-size: 30px;
+    letter-spacing: 15px;
+}
+
+#lineFourteen {
+    font-family: 'Arvo', serif;
+    padding: 20px;
+    width: 300px;
+    font-size: 50px;
+    resize: both;
+    overflow: auto;
+    margin-left: 100px;
+}
+
+/*questions*/
+
+#first {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 30px;
+    color: darkorange;
+    margin-left: 100px;
+    margin-top: 70px;
+
+}
+
+#second {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 30px;
+    color: pink;
+    margin-left: 100px;
+    margin-bottom: 60px;
+}
+
+.interview {
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    margin-left: 150px;
+}
+
+.interviewTwo {
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-weight: lighter;
+    margin-left: 150px;
+}
+
+#orange:hover {
+    background-color: orange;
+    margin-right: 1315px;
+    color: orange;
+
+}
+
+/*portfolio*/
+
+.myname {
+    font-family: 'Roboto';
+    font-size: 10pt;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.sidebar {
+    font-family: 'Roboto';
+    font-size: 10pt;
+    margin-left: 12px;
+    line-height: 25px;
+}
+
+.pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+}
+
+/*font-family: 'Roboto Mono', ;
+font-family: 'Roboto Condensed', ;
+font-family: 'Roboto', ;*/
+/*font-family: , Arial, sans-serif;*/
+
