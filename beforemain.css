@@ -1,0 +1,23 @@
+.menuTwo {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 200px;
+    margin-top: -20px;
+    margin-bottom: 60px;
+    margin-left: 79px;
+    color: pink;
+    letter-spacing: 3px;
+
+}
+
+a:link {
+    text-decoration: none;
+    color: pink;
+}
+
+a:visited {
+    color: pink;
+}
+
+a:hover {
+    background-color: pink;
+}
