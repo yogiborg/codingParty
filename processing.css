@@ -1,0 +1,24 @@
+.column {
+    float: left;
+    width: 20%;
+    padding-left: 20px;
+}
+
+#one{
+    margin-bottom:20px; 
+}
+#two{
+    margin-bottom:20px; 
+}
+#three{
+    margin-bottom:20px; 
+}
+#four{
+    margin-bottom:20px; 
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
